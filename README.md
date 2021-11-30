@@ -1,4 +1,4 @@
- <h2>Ola! esse e meu perfil no github</h2>
+ <h2>Ola! esse e meu perfil no github.</h2>
  
  <div>
   <a href="https://github.com/viniciuscicone">
