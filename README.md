@@ -21,5 +21,13 @@
   
   ![Snake animation](https://github.com/viniciuscicone/viniciuscicone/blob/output/github-contribution-grid-snake.svg)
   
+     
+<p align="center"> 
+
+ ## Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/viniciuscicone/count.svg" />
+ </p>
+   
   </div>
   
