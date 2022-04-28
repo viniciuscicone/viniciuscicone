@@ -15,7 +15,7 @@
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" background-color="white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer">
-  <!-- <img align="center" alt="nodejs" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"> -->
+  <img align="center" alt="nodejs" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
  <img align="center"src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </div>
   
